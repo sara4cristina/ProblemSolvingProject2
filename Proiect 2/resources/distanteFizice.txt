@@ -1,0 +1,9 @@
+bucuresti brasov 140
+brasov bacau 142
+suceva iasi 115
+bacau roman 40
+roman iasi 56
+roman suceava 94
+bucuresti bacau 245
+iasi botosani 96
+suceava botosani 32
